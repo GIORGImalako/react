@@ -3,7 +3,7 @@ import { Home } from "./components/home/Home";
 import { Contact } from "./components/contact/Contact";
 import { About } from "./components/about/About";
 import { NoPage } from "./components/nopage/NoPage";
-import { Layout } from "./layout/Layout";
+import { Layout } from "./layout/Layout"
 
 
 
